@@ -39,6 +39,6 @@ This project is designed to build practical skills in:
 - security-minded data handling
 
 ## Current status
-Day 0 - completed. Week 1 begins with scoping, dataset setup, and pipeline implementation.
+Day 0 - 5/15/2026 - Completed. Week 1 begins with scoping, dataset setup, and pipeline implementation.
 
-Day 1 - Completed validation and tested with pytest on whether validation works or not.
+Day 1 - 5/16/2026 - Completed validation and tested with pytest on whether validation works or not.
