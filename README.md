@@ -42,3 +42,5 @@ This project is designed to build practical skills in:
 Day 0 - 5/15/2026 - Completed. Week 1 begins with scoping, dataset setup, and pipeline implementation.
 
 Day 1 - 5/16/2026 - Completed validation and tested with pytest on whether validation works or not.
+
+Day 2 - 5/18/2026 - Finished Day 1 stuff and started Day 2 stuff.
